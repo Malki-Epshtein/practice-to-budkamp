@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practic-to-kamteck-in-c")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92423236f7d124fb4ba58971aef284462fa1dbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7887588af3f795a2782f49b0cf4f5484acdfdd35")]
 [assembly: System.Reflection.AssemblyProductAttribute("practic-to-kamteck-in-c")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practic-to-kamteck-in-c")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
