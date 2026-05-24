@@ -6,10 +6,4 @@
 <<<<<<< HEAD
 😊 my name is aaaaaaaaaa 😊
 =======
-<<<<<<< HEAD
-😜 name is malki 😜
-=======
-😊 my name is NOMI 😊
->>>>>>> bbdd6fd54fb8ffd8d8da2e6f47684f7c92d082ac
->>>>>>> 03a19b35dbedfcd8574ce264fc28e64737620f0a
-##################
+
