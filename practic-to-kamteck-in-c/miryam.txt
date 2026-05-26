@@ -3,9 +3,5 @@
 😊 my name is miryam 😊
 ##################
 ##################
-<<<<<<< HEAD
-😜 name is malki 😜
-=======
 😊 my name is NOMI 😊
->>>>>>> bbdd6fd54fb8ffd8d8da2e6f47684f7c92d082ac
 ##################
