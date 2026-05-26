@@ -8,5 +8,6 @@ namespace practic_to_kamteck_in_c
 {
     class Class1
     {
+    חחחחחחחחחחחחחחחחחחחחחחחחחחחח
     }
 }
